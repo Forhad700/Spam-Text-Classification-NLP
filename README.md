@@ -4,7 +4,7 @@
 This project implemented a **Spam Detection System** focuses on text classification using **Natural Language Processing (NLP)**. The goal is to classify text messages as either "spam" or "non-spam (ham)".
 
 ## Features
-- **Classify given text message is spam or non-spam (ham).
+- Classify given text message is spam or non-spam (ham).
 - Real-time text prediction system where users can input messages using interactive web interface.
 
 ## Tech Stack
