@@ -6,7 +6,6 @@ This project implemented a **Spam Detection System** focuses on text classificat
 ## Features
 - **Classify given text message is spam or non-spam (ham).
 - Real-time text prediction system where users can input messages using interactive web interface.
-- 
 
 ## Tech Stack
 - **Pogramming Language**: Python
